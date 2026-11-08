@@ -1,0 +1,12 @@
+{
+  "name": "bodhisattva",
+  "description": "佛法僧: Buddha, Dharma, Sangha for AI agents",
+  "owner": { "name": "steves880106" },
+  "plugins": [
+    {
+      "name": "bodhisattva",
+      "source": "./",
+      "description": "Sutras, Chan classics, liturgy and practice notes, plus a skill for bringing Chan practice into the work."
+    }
+  ]
+}

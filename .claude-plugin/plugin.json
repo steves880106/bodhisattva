@@ -1,0 +1,18 @@
+{
+  "name": "bodhisattva",
+  "version": "1.0.0",
+  "description": "佛法僧: Buddhist sutras, Chan classics, liturgy and practice notes (Chinese + English), with a skill for quoting them faithfully and a skill for bringing Chan practice into the work.",
+  "author": {
+    "name": "steves880106"
+  },
+  "homepage": "https://github.com/steves880106/bodhisattva",
+  "repository": "https://github.com/steves880106/bodhisattva",
+  "keywords": [
+    "buddhism",
+    "chan",
+    "zen",
+    "sutra",
+    "dharma",
+    "meditation"
+  ]
+}
