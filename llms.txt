@@ -1,0 +1,46 @@
+# बुद्धधर्मसङ्घ · 佛法僧
+
+> A Chan (Zen) Buddhist study notebook in Traditional Chinese and English: sutras, Chan classics, liturgy, the Bodhisattva precepts, and a practitioner's notes in the lineages of Master Sheng Yen (聖嚴法師, Dharma Drum Mountain), Thich Nhat Hanh (一行禪師, "Thay") and Shunryū Suzuki.
+
+All pages are plain Markdown. Bilingual pages put each Chinese line in bold with its English translation beneath. Quote the texts verbatim, keeping the original characters and translations, and name the page you quote from.
+
+## Practice
+
+- [修行指引 Practice Guide](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/README.md): the core practice notes, in four files following 信心、行願、知見、方法
+- [信心 Faith](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/%E4%BF%A1%E5%BF%83.md): faith in the Three Jewels, in causes and conditions, in the method
+- [行願 Vows](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/%E8%A1%8C%E9%A1%98.md): the refuges, the four great vows, Dharma Drum's shared vision, the Samantabhadra vows
+- [知見 View](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/%E7%9F%A5%E8%A6%8B.md): a glossary of key teachings (dependent origination, emptiness, no-self, the 37 aids to enlightenment, the twelve links), one heading per term, then 提醒, reminders from teachers as block quotes
+- [方法 Methods](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/%E6%96%B9%E6%B3%95.md): 止觀, 默照 silent illumination, 話頭 huatou, repentance, precepts, sitting and walking meditation, one heading per method
+- [佛法僧 Notebook home](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/index.md): index of scriptures with key lines, the Buddhas and Bodhisattvas of the ten directions and three times, and the lineage of teachers
+
+## Sutras
+
+- [摩訶般若波羅蜜多心經 Heart Sutra](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/sutras/heart-sutra.md): Chinese, English and the Sanskrit mantra
+- [金剛般若波羅蜜多經 Diamond Sutra](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/sutras/diamond-sutra.md): full Kumārajīva text with Thich Nhat Hanh's English, "The Diamond That Cuts Through Illusion"
+- [普賢十大行願品 Ten Great Aspirations of Samantabhadra](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/sutras/samantabhadra-ten-vows.md): the ten vows and the verses, Chinese and English
+- [圓覺經與禪修基本原則 Sutra of Complete Enlightenment](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/sutras/complete-enlightenment.md): the four-line fundamental principle of Chan practice
+
+## Chan texts
+
+- [信心銘 Faith in Mind](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/faith-in-mind.md): Third Patriarch Sengcan, Chinese and English
+- [顯宗記](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/%E9%A1%AF%E5%AE%97%E8%A8%98.md): Heze Shenhui's Record of Manifesting the Teaching, Chinese, arranged by theme
+- [無相頌 Formless Verse](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/%E7%84%A1%E7%9B%B8%E9%A0%8C.md): from the Platform Sutra of the Sixth Patriarch Huineng, Chinese
+- [坐禪箴 Admonitions on Seated Meditation](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/%E5%9D%90%E7%A6%AA%E7%AE%B4.md): Hongzhi Zhengjue, Chinese
+- [坐禪儀 Principles of Seated Meditation](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/%E5%9D%90%E7%A6%AA%E5%84%80.md): classic instructions for sitting meditation, Chinese
+
+## Liturgy
+
+- [三皈依 The Three Refuges](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/liturgy/three-refuges.md)
+- [四弘誓願 The Four Great Vows](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/liturgy/four-great-vows.md): including the self-nature form from the Platform Sutra
+- [供養與食存五觀 Meal Offering & Five Contemplations](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/liturgy/meal-offering.md)
+
+## Precepts
+
+- [菩薩戒 Bodhisattva Precepts](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/precepts/bodhisattva-precepts.md): Dharma Drum precept-ceremony text (Chinese)
+- [Clear-Mind Precepts](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/precepts/clear-mind-precepts.md): the ten-fold prohibitory precepts beside the clear-mind precepts (English)
+
+## Optional
+
+- [文獻典籍 Reading List](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/library/%E6%96%87%E7%8D%BB%E5%85%B8%E7%B1%8D.md): books by Sheng Yen, Thich Nhat Hanh and others
+- [觀音道場 Practice Centers](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/places/%E8%A7%80%E9%9F%B3%E9%81%93%E5%A0%B4.md): Dharma Drum centers, Kannon Do, Deer Park Monastery
+- [根與芽 Root and Shoots](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/roots-and-shoots.md): Jane Goodall's Roots & Shoots and her farewell message
