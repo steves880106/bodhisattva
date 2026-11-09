@@ -7,21 +7,18 @@ title_en: "The Sutra of Complete Enlightenment and the Fundamental Principle of 
 
 ## 中文
 
-**居一切時不起妄念。**
-
-**於諸妄心亦不息滅。**
-
-**住妄想境不加了知。**
-
+**居一切時不起妄念。**  
+**於諸妄心亦不息滅。**  
+**住妄想境不加了知。**  
 **於無了知不辨真實。**
 
 ## English
 
-At all times, do not give rise to deluded thoughts.
-
-[Yet] when deluded mentalities [arise], do not extinguish them.
-
-Amidst deluded perceptions, do not add any
-discrimination.
-
+At all times, do not give rise to deluded thoughts.  
+[Yet] when deluded mentalities [arise], do not extinguish them.  
+Amidst deluded perceptions, do not add any discrimination.  
 When in [the state of] non-discrimination, do not distinguish it as being real.
+
+## 筆記 Notes
+
+知幻即離，不作方便；離幻即覺，亦無漸次

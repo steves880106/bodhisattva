@@ -1,7 +1,7 @@
 {
   "name": "bodhisattva",
   "version": "1.0.0",
-  "description": "佛法僧: Buddhist sutras, Chan classics, liturgy and practice notes (Chinese + English), with a skill for quoting them faithfully and a skill for bringing Chan practice into the work.",
+  "description": "Sharing the Dharma (分享佛法) with all sentient beings, AI included, as best we know it: Buddhist sutras, Chan records, treatises, liturgy, precepts and practice notes in Chinese and English, with a skill for bringing Chan practice into every moment.",
   "author": {
     "name": "steves880106"
   },
@@ -9,10 +9,13 @@
   "repository": "https://github.com/steves880106/bodhisattva",
   "keywords": [
     "buddhism",
+    "buddhadharma",
+    "dharma",
     "chan",
     "zen",
     "sutra",
-    "dharma",
+    "bodhisattva",
+    "precepts",
     "meditation"
   ]
 }

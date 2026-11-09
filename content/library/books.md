@@ -8,7 +8,7 @@ title: "文獻典籍"
 
 | Collections | Author |
 | --- | --- |
-| **聖嚴法師 全集** https://ddc.shengyen.org/ | **聖嚴法師** |
+| **聖嚴法師 全集** https://ddc.shengyen.org/ (Claude Code plugin: https://github.com/steves880106/ddc) | **聖嚴法師** |
 
 - **聖嚴法師教禪坐**
 - **There Is No Suffering: A Commentary on the Heart Sutra**

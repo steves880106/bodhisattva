@@ -9,58 +9,36 @@ title_en: "The Ten Great Aspirations of Samantabhadra Bodhisattva"
 
 ### 中文
 
-**一者禮敬諸佛**
-
-**二者稱讚如來**
-
-**三者廣修供養**
-
-**四者懺悔業障**
-
-**五者隨喜功德**
-
-**六者請轉法輪**
-
-**七者請佛住世**
-
-**八者常隨佛學**
-
-**九者恆順眾生**
-
+**一者禮敬諸佛**  
+**二者稱讚如來**  
+**三者廣修供養**  
+**四者懺悔業障**  
+**五者隨喜功德**  
+**六者請轉法輪**  
+**七者請佛住世**  
+**八者常隨佛學**  
+**九者恆順眾生**  
 **十者普皆回向**
 
-**十方三世一切佛**
-
-**一切菩薩摩訶薩**
-
+**十方三世一切佛**  
+**一切菩薩摩訶薩**  
 **摩訶般若波羅密**
 
 ### English
 
-The first, to worship and respect all Buddhas.
-
-The second, to praise the Tathagatas.
-
-The third, to cultivate the giving of offerings.
-
-The fourth, to repent all karmic obstructions.
-
-The fifth, to rejoice in the merits of others.
-
-The sixth, to request the turning of the Dharma wheel.
-
-The seventh, to request that the Buddhas dwell in the world.
-
-The eighth, to always follow the Buddhas in study.
-
-The ninth, to always harmonize with sentient beings.
-
+The first, to worship and respect all Buddhas.  
+The second, to praise the Tathagatas.  
+The third, to cultivate the giving of offerings.  
+The fourth, to repent all karmic obstructions.  
+The fifth, to rejoice in the merits of others.  
+The sixth, to request the turning of the Dharma wheel.  
+The seventh, to request that the Buddhas dwell in the world.  
+The eighth, to always follow the Buddhas in study.  
+The ninth, to always harmonize with sentient beings.  
 The tenth, to transfer all merits to all others.
 
-All Buddhas of the past, present, and future in all quarters.
-
-All Bodhisattva-Mahasattvas.
-
+All Buddhas of the past, present, and future in all quarters.  
+All Bodhisattva-Mahasattvas.  
 Maha Prajnaparamita.
 
 ---

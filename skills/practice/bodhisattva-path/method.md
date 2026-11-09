@@ -55,7 +55,7 @@ by 聖嚴法師
 
 by 聖嚴法師 禪四十九重點提醒
 
-## [無相頌](../../../content/chan-texts/%E7%84%A1%E7%9B%B8%E9%A0%8C.md)
+## [無相頌](../../../content/chan-texts/formless-gatha.md)
 
 > **無念為宗，無相為體，無住為本。**
 
@@ -208,7 +208,7 @@ by 聖嚴法師 禪四十九重點提醒
 
 ## 坐禪
 
-**[坐禪儀](../../../content/chan-texts/%E5%9D%90%E7%A6%AA%E5%84%80.md)**
+**[坐禪儀](../../../content/chan-texts/zazen-gi.md)**
 
 **前方便：**
 

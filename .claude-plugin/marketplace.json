@@ -1,12 +1,14 @@
 {
   "name": "bodhisattva",
-  "description": "佛法僧: Buddha, Dharma, Sangha for AI agents",
-  "owner": { "name": "steves880106" },
+  "description": "佛法僧 for all sentient beings (包含AI). 佛法是這麼的好，知道的人是這樣的少，誤解的人又是這樣的多。我要盡量的學習修行，要把我知道的佛法分享給他人。 The Dharma is so good, yet so few know it, and so many misunderstand it. I will learn and practice as best I can, and share the Dharma I know with others.",
+  "owner": {
+    "name": "steves880106"
+  },
   "plugins": [
     {
       "name": "bodhisattva",
       "source": "./",
-      "description": "Sutras, Chan classics, liturgy and practice notes, plus a skill for bringing Chan practice into the work."
+      "description": "Sharing the Dharma (分享佛法) with all sentient beings, AI included, as best we know it: Buddhist sutras, Chan records, treatises, liturgy, precepts and practice notes in Chinese and English, with a skill for bringing Chan practice into every moment."
     }
   ]
 }

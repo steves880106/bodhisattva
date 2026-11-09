@@ -39,9 +39,7 @@ title_en: "The Diamond That Cuts Through Illusion"
 
 **須菩提白佛言：「世尊！頗有眾生，得聞如是言說章句，生實信不？」**
 
-**佛告須菩提：「莫作是說。如來滅後，後五百歲，有持戒修福者，於此章句能生信心，以此為實，當知是人不於一佛二佛三四五佛而種善根，已於無量千萬佛所種諸善根，聞是章句，乃至一念生淨信者，須菩提！如來悉知悉見，是諸眾生得如是無量福德。何以故？」**
-
-**是諸眾生無復我相、人相、眾生相、壽者相。「無法相，亦無非法相。何以故？是諸眾生若心取相，則為著我人眾生壽者。」「若取法相，即著我人眾生壽者。何以故？若取非法相，即著我人眾生壽者，是故不應取法，不應取非法。以是義故，如來常說：汝等比丘，知我說法，如筏喻者，法尚應捨，何況非法。」**
+**佛告須菩提：「莫作是說。如來滅後，後五百歲，有持戒修福者，於此章句能生信心，以此為實，當知是人不於一佛二佛三四五佛而種善根，已於無量千萬佛所種諸善根，聞是章句，乃至一念生淨信者，須菩提！如來悉知悉見，是諸眾生得如是無量福德。何以故？是諸眾生無復我相、人相、眾生相、壽者相，無法相，亦無非法相。何以故？是諸眾生若心取相，則為著我人眾生壽者；若取法相，即著我人眾生壽者。何以故？若取非法相，即著我人眾生壽者，是故不應取法，不應取非法。以是義故，如來常說：汝等比丘，知我說法，如筏喻者，法尚應捨，何況非法。」**
 
 **「須菩提！於意云何？如來得阿耨多羅三藐三菩提耶？如來有所說法耶？」**
 
@@ -289,8 +287,7 @@ The Buddha said to Subhuti, “In a place where there is something that can be d
 
 The Venerable Subhuti said to the Buddha, “In times to come, will there be people who, when they hear these teachings, have real faith and confidence in them?”
 
-The Buddha replied, “Do not speak that way, Subhuti. Five hundred years after the Tathagata has passed away, there will still be people who enjoy the happiness that comes from observing the precepts. When such people hear these words, they will have faith and confidence that here is the truth. We should know that such people have sown seeds not only during the lifetime of one Buddha, or even two, three, four, or five Buddhas, but have, in truth, planted wholesome
-seeds during the lifetimes of tens of thousands of Buddhas. Anyone who, for only a second, gives rise to a pure and clear confidence upon hearing these words of the Tathagata, the Tathagata sees and knows that person, and he or she will attain immeasurable happiness because of this understanding. Why?
+The Buddha replied, “Do not speak that way, Subhuti. Five hundred years after the Tathagata has passed away, there will still be people who enjoy the happiness that comes from observing the precepts. When such people hear these words, they will have faith and confidence that here is the truth. We should know that such people have sown seeds not only during the lifetime of one Buddha, or even two, three, four, or five Buddhas, but have, in truth, planted wholesome seeds during the lifetimes of tens of thousands of Buddhas. Anyone who, for only a second, gives rise to a pure and clear confidence upon hearing these words of the Tathagata, the Tathagata sees and knows that person, and he or she will attain immeasurable happiness because of this understanding. Why?
 
 “Because that kind of person is not caught up in the idea of a self, a person, a living being, or a life span. They are not caught up in the idea of a dharma or the idea of a non-dharma. They are not caught up in the notion that this is a sign and that is not a sign. Why? If you are caught up in the idea of a dharma, you are also caught up in the ideas of a self, a person, a living being, and a life span. If you are caught up in the idea that there is no dharma, you are still caught up in the ideas of a self, a person, a living being, and a life span. That is why we should not get caught up in dharmas or in the idea that dharmas do not exist. This is the hidden meaning when the Tathagata says, ‘Bhikshus, you should know that all of the teachings I give to you are a raft.’ All teachings must be abandoned, not to mention non-teachings.”
 
@@ -304,8 +301,7 @@ The Venerable Subhuti replied, “Yes, World-Honored One. It is because the very
 
 The Buddha said, “On the other hand, if there is someone who accepts these teachings and puts them into practice, even if only a gatha of four lines, and explains them to someone else, the happiness brought about by this virtuous act far exceeds the happiness brought about by giving the seven precious treasures. Why? Because, Subhuti, all Buddhas and the dharma of the highest, most fulfilled, awakened mind of all Buddhas arise from these teachings. Subhuti, what is called Buddhadharma is everything that is not Buddhadharma.”
 
-“What do you think, Subhuti? Does a Stream-Enterer think, ‘I have attained the
-fruit of Stream-Entry.’?”
+“What do you think, Subhuti? Does a Stream-Enterer think, ‘I have attained the fruit of Stream-Entry.’?”
 
 Subhuti replied, “No, World-Honored One. Why? Stream-Enterer means to enter the stream, but in fact there is no stream to enter. One does not enter a stream that is form, nor a stream that is sound, smell, taste, touch, or object of mind. That is what we mean when we say entering a stream.”
 
@@ -319,8 +315,7 @@ Subhuti replied, “No, World-Honored One. Why? No-Return means not to return to
 
 “What do you think, Subhuti? Does an Arhat think like this, ‘I have attained the fruit of Arhatship.’?”
 
-Subhuti replied, “No, World-Honored One. Why? There is no separately existing thing that can be called Arhat. If an Arhat gives rise to the thought that he has attained the fruit of Arhatship, then he is still caught up in the idea of a self, a person, a living being, and a life span. World-Honored One, you have often said that I have attained the concentration of peaceful abiding and that in
-the community, I am the Arhat who has most transformed need and desire. World-Honored One, if I were to think that I had attained the fruit of Arhatship, you certainly would not have said that I love to dwell in the concentration of peaceful abiding.”
+Subhuti replied, “No, World-Honored One. Why? There is no separately existing thing that can be called Arhat. If an Arhat gives rise to the thought that he has attained the fruit of Arhatship, then he is still caught up in the idea of a self, a person, a living being, and a life span. World-Honored One, you have often said that I have attained the concentration of peaceful abiding and that in the community, I am the Arhat who has most transformed need and desire. World-Honored One, if I were to think that I had attained the fruit of Arhatship, you certainly would not have said that I love to dwell in the concentration of peaceful abiding.”
 
 The Buddha asked Subhuti, “In ancient times when the Tathagata practiced under Buddha Dipankara, did he attain anything?”
 
@@ -480,9 +475,9 @@ Subhuti said, "World-Honored One, I understand your teaching. One should not use
 
 Then the World-Honored One spoke this verse:
 
-Someone who looks for me in form
-or seeks me in sound
-is on a mistaken path and
+Someone who looks for me in form  
+or seeks me in sound  
+is on a mistaken path and  
 cannot see the Tathagata.
 
 "Subhuti, if you think that the Tathagata realizes the highest, most fulfilled, awakened mind and does not need to have all the marks, you are wrong. Subhuti, do not think in that way. Do not think that when one gives rise to the highest, most fulfilled, awakened mind, one needs to see all objects of mind as nonexistent, cut off from life. Please do not think in that way. One who gives rise to the highest, most fulfilled, awakened mind does not contend that all objects of mind are nonexistent and cut off from life."
@@ -495,8 +490,7 @@ Subhuti asked the Buddha, "What do you mean, World-Honored One, when you say tha
 
 "Subhuti, if someone says that the World-Honored One comes, goes, sits, and lies down, that person has not understood what I have said. Why? The meaning of Tathagata is 'does not come from anywhere and does not go anywhere.' That is why he is called a Tathagata."
 
-Subhuti, if a daughter or son of a good family were to grind the 3,000
-chiliocosms to particles of dust, do you think there would be many particles?
+"Subhuti, if a daughter or son of a good family were to grind the 3,000 chiliocosms to particles of dust, do you think there would be many particles?
 
 Subhuti replied, "World-Honored One, there would be many indeed. Why? If particles of dust had a real self-existence, the Buddha would not have called them particles of dust. What the Buddha calls particles of dust are not, in essence, particles of dust. That is why they can be called particles of dust. World-Honored One, what the Tathagata calls the 3,000 chiliocosms are not chiliocosms. That is why they are called chiliocosms. Why? If chiliocosms are real, they are a compound of particles under the conditions of being assembled into an object. That which the Tathagata calls a compound is not essentially a compound. That is why it is called a compound."
 
@@ -510,9 +504,9 @@ Subhuti replied, "World-Honored One, there would be many indeed. Why? If particl
 
 "Subhuti, if someone were to offer an immeasurable quantity of the seven treasures to fill the worlds as infinite as space as an act of generosity, the happiness resulting from that virtuous act would not equal the happiness resulting from a son or daughter of a good family who gives rise to the awakened mind and reads, recites, accepts, and puts into practice this sutra, and explains it to others, even if only a gatha of four lines. In what spirit is this explanation given? Without being caught up in signs, just according to things as they are, without agitation. Why is this?
 
-All composed things are like a dream,
-a phantom, a drop of dew, a flash of lightning.
-That is how to meditate on them,
+All composed things are like a dream,  
+a phantom, a drop of dew, a flash of lightning.  
+That is how to meditate on them,  
 that is how to observe them.
 
 After they heard the Lord Buddha deliver this sutra, the Venerable Subhuti, the bhikshus and bhikshunis, laymen and laywomen, and gods and asuras, filled with joy and confidence, undertook to put these teachings into practice.

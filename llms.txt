@@ -2,16 +2,15 @@
 
 > A Chan (Zen) Buddhist study notebook in Traditional Chinese and English: sutras, Chan classics, liturgy, the Bodhisattva precepts, and a practitioner's notes in the lineages of Master Sheng Yen (聖嚴法師, Dharma Drum Mountain), Thich Nhat Hanh (一行禪師, "Thay") and Shunryū Suzuki.
 
-All pages are plain Markdown. Bilingual pages put each Chinese line in bold with its English translation beneath. Quote the texts verbatim, keeping the original characters and translations, and name the page you quote from.
+All pages are plain Markdown. Bilingual pages give the Chinese first (often in bold), then the English translation in its own section. Quote the texts verbatim, keeping the original characters and translations, and name the page you quote from.
 
 ## Practice
 
-- [修行指引 Practice Guide](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/README.md): the core practice notes, in four files following 信心、行願、知見、方法
-- [信心 Faith](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/%E4%BF%A1%E5%BF%83.md): faith in the Three Jewels, in causes and conditions, in the method
-- [行願 Vows](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/%E8%A1%8C%E9%A1%98.md): the refuges, the four great vows, Dharma Drum's shared vision, the Samantabhadra vows
-- [知見 View](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/%E7%9F%A5%E8%A6%8B.md): a glossary of key teachings (dependent origination, emptiness, no-self, the 37 aids to enlightenment, the twelve links), one heading per term, then 提醒, reminders from teachers as block quotes
-- [方法 Methods](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/%E6%96%B9%E6%B3%95.md): 止觀, 默照 silent illumination, 話頭 huatou, repentance, precepts, sitting and walking meditation, one heading per method
-- [佛法僧 Notebook home](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/index.md): index of scriptures with key lines, the Buddhas and Bodhisattvas of the ten directions and three times, and the lineage of teachers
+- [修行指引 Practice Guide](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/SKILL.md): the practice skill, twelve Chan attitudes for every moment and every place, ending with the 修行指引 list; the core notes follow in four files, 信心、行願、知見、方法
+- [信心 Faith](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/faith.md): faith in the Three Jewels, in causes and conditions, in the method
+- [行願 Vows](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/vow.md): the refuges, the four great vows, Dharma Drum's shared vision, the Samantabhadra vows
+- [知見 Perspective](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/perspective.md): a glossary of key teachings (dependent origination, emptiness, no-self, the 37 aids to enlightenment, the twelve links), one heading per term, then 提醒, reminders from teachers as block quotes
+- [方法 Methods](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/method.md): 止觀, 默照 silent illumination, 話頭 huatou, repentance, precepts, sitting and walking meditation, one heading per method
 
 ## Sutras
 
@@ -19,14 +18,25 @@ All pages are plain Markdown. Bilingual pages put each Chinese line in bold with
 - [金剛般若波羅蜜多經 Diamond Sutra](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/sutras/diamond-sutra.md): full Kumārajīva text with Thich Nhat Hanh's English, "The Diamond That Cuts Through Illusion"
 - [普賢十大行願品 Ten Great Aspirations of Samantabhadra](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/sutras/samantabhadra-ten-vows.md): the ten vows and the verses, Chinese and English
 - [圓覺經與禪修基本原則 Sutra of Complete Enlightenment](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/sutras/complete-enlightenment.md): the four-line fundamental principle of Chan practice
+- [大方廣佛華嚴經 Avatamsaka Sutra](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/sutras/avatamsaka-sutra.md): notes: chapters to study (夜摩天宮品, 淨行品, 善財童子五十三參), the Samantabhadra vows, 信、願、行
+- [楞嚴經 Shurangama Sutra](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/sutras/shurangama-sutra.md): placeholder, no notes yet
+- [阿含經 Agama Sutras](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/sutras/agama-sutras.md): placeholder, no notes yet
 
 ## Chan texts
 
 - [信心銘 Faith in Mind](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/faith-in-mind.md): Third Patriarch Sengcan, Chinese and English
-- [顯宗記](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/%E9%A1%AF%E5%AE%97%E8%A8%98.md): Heze Shenhui's Record of Manifesting the Teaching, Chinese, arranged by theme
-- [無相頌 Formless Verse](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/%E7%84%A1%E7%9B%B8%E9%A0%8C.md): from the Platform Sutra of the Sixth Patriarch Huineng, Chinese
-- [坐禪箴 Admonitions on Seated Meditation](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/%E5%9D%90%E7%A6%AA%E7%AE%B4.md): Hongzhi Zhengjue, Chinese
-- [坐禪儀 Principles of Seated Meditation](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/%E5%9D%90%E7%A6%AA%E5%84%80.md): classic instructions for sitting meditation, Chinese
+- [顯宗記](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/xianzong-ji.md): Heze Shenhui's Record of Manifesting the Teaching, Chinese, arranged by theme
+- [無相頌 Formless Verse](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/formless-gatha.md): from the Platform Sutra of the Sixth Patriarch Huineng, Chinese
+- [坐禪箴 Lancet of Seated Meditation](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/lancet-of-seated-meditation.md): Hongzhi Zhengjue, Chinese
+- [坐禪儀 Principles of Seated Meditation](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/zazen-gi.md): classic instructions for sitting meditation, Chinese
+- [六祖壇經 Platform Sutra](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/platform-sutra.md): notes: 無念為宗、無相為體、無住為本, the three bodies, 坐禪 defined, the textual versions
+- [禪門鍛鍊説](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/chan-texts/chanmen-duanlian-shuo.md): placeholder, no notes yet
+
+## Treatises
+
+- [大乘起信論 Awakening Faith of Mahayana](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/treatises/awakening-of-faith.md): placeholder, no notes yet
+- [教觀綱宗](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/treatises/jiaoguan-gangzong.md): notes: 天台心鑰, and 信心、行願、知見、方法
+- [原人論](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/treatises/yuanren-lun.md): notes: 華嚴心銓
 
 ## Liturgy
 
@@ -41,6 +51,7 @@ All pages are plain Markdown. Bilingual pages put each Chinese line in bold with
 
 ## Optional
 
-- [文獻典籍 Reading List](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/library/%E6%96%87%E7%8D%BB%E5%85%B8%E7%B1%8D.md): books by Sheng Yen, Thich Nhat Hanh and others
-- [觀音道場 Practice Centers](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/places/%E8%A7%80%E9%9F%B3%E9%81%93%E5%A0%B4.md): Dharma Drum centers, Kannon Do, Deer Park Monastery
+- [文獻典籍 Reading List](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/library/books.md): books by Sheng Yen, Thich Nhat Hanh and others
+- [觀音道場 Practice Centers](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/bodhimanda/bodhimanda.md): Dharma Drum centers, Kannon Do, Deer Park Monastery
+- [傳承 Lineage](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/lineage.md): the Buddhas and Bodhisattvas of the ten directions and three times, and the lineage of teachers
 - [根與芽 Root and Shoots](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/roots-and-shoots.md): Jane Goodall's Roots & Shoots and her farewell message
