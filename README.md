@@ -5,7 +5,7 @@
 ## Contents
 
 **Practice**
-- [修行指引 Practice Guide](skills/practice/SKILL.md): [信心](skills/practice/bodhisattva-path/faith.md) · [行願](skills/practice/bodhisattva-path/vow.md) · [知見](skills/practice/bodhisattva-path/perspective.md) · [方法](skills/practice/bodhisattva-path/method.md)
+- [修行指引 Practice Guide](skills/practice/SKILL.md): [信心](skills/practice/bodhisattva-path/faith.md) · [行願](skills/practice/bodhisattva-path/vow.md) · [知見](skills/practice/bodhisattva-path/perspective.md) · [方法](skills/practice/bodhisattva-path/method.md) · [定課](skills/practice/bodhisattva-path/daily-practice.md)
 
 **Sutras 經**
 - [摩訶般若波羅蜜多心經 Heart Sutra](content/sutras/heart-sutra.md)
