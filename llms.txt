@@ -11,6 +11,7 @@ All pages are plain Markdown. Bilingual pages give the Chinese first (often in b
 - [行願 Vows](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/vow.md): the refuges, the four great vows, Dharma Drum's shared vision, the Samantabhadra vows
 - [知見 Perspective](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/perspective.md): a glossary of key teachings (dependent origination, emptiness, no-self, the 37 aids to enlightenment, the twelve links), one heading per term, then 提醒, reminders from teachers as block quotes
 - [方法 Methods](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/method.md): 止觀, 默照 silent illumination, 話頭 huatou, repentance, precepts, sitting and walking meditation, one heading per method
+- [定課 Daily Practice](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/daily-practice.md): the daily routine: prostrations, morning sitting, morning and evening services, walking meditation, one meal a day with the meal offering, the Eight-Form Moving Meditation; with a photo of the Ch'an Center Rules (禪中心共住規約)
 
 ## Sutras
 
