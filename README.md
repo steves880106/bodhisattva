@@ -2,26 +2,33 @@
 
 > 無上甚深微妙法，百千萬劫難遭遇，我今見聞得受持，願解如來真實義。
 
-A personal Chan study notebook: sutras, liturgy, precepts and practice notes, in Chinese and English.
-Imported from Notion; start at [content/index.md](content/index.md).
-
 ## Contents
 
 **Practice**
-- [修行指引 Practice Guide](skills/practice/bodhisattva-path/README.md): [信心](skills/practice/bodhisattva-path/%E4%BF%A1%E5%BF%83.md) · [行願](skills/practice/bodhisattva-path/%E8%A1%8C%E9%A1%98.md) · [知見](skills/practice/bodhisattva-path/%E7%9F%A5%E8%A6%8B.md) · [方法](skills/practice/bodhisattva-path/%E6%96%B9%E6%B3%95.md)
+- [修行指引 Practice Guide](skills/practice/SKILL.md): [信心](skills/practice/bodhisattva-path/faith.md) · [行願](skills/practice/bodhisattva-path/vow.md) · [知見](skills/practice/bodhisattva-path/perspective.md) · [方法](skills/practice/bodhisattva-path/method.md)
 
 **Sutras 經**
 - [摩訶般若波羅蜜多心經 Heart Sutra](content/sutras/heart-sutra.md)
 - [金剛般若波羅蜜多經 The Diamond That Cuts Through Illusion](content/sutras/diamond-sutra.md)
 - [普賢十大行願品 The Ten Great Aspirations of Samantabhadra](content/sutras/samantabhadra-ten-vows.md)
 - [圓覺經與禪修基本原則 Complete Enlightenment & the Principle of Chan Practice](content/sutras/complete-enlightenment.md)
+- [大方廣佛華嚴經 Avatamsaka Sutra](content/sutras/avatamsaka-sutra.md)
+- [楞嚴經 Shurangama Sutra](content/sutras/shurangama-sutra.md)
+- [阿含經 Agama Sutras](content/sutras/agama-sutras.md)
 
-**Chan texts 禪典**
+**Chan texts 禪宗語錄**
 - [信心銘 Faith in Mind](content/chan-texts/faith-in-mind.md)
-- [顯宗記](content/chan-texts/%E9%A1%AF%E5%AE%97%E8%A8%98.md)
-- [無相頌](content/chan-texts/%E7%84%A1%E7%9B%B8%E9%A0%8C.md)
-- [坐禪箴](content/chan-texts/%E5%9D%90%E7%A6%AA%E7%AE%B4.md)
-- [坐禪儀](content/chan-texts/%E5%9D%90%E7%A6%AA%E5%84%80.md)
+- [顯宗記](content/chan-texts/xianzong-ji.md)
+- [無相頌](content/chan-texts/formless-gatha.md)
+- [坐禪箴](content/chan-texts/lancet-of-seated-meditation.md)
+- [坐禪儀](content/chan-texts/zazen-gi.md)
+- [六祖壇經 Platform Sutra](content/chan-texts/platform-sutra.md)
+- [禪門鍛鍊説](content/chan-texts/chanmen-duanlian-shuo.md)
+
+**Treatises 論**
+- [大乘起信論 Awakening Faith of Mahayana](content/treatises/awakening-of-faith.md)
+- [教觀綱宗](content/treatises/jiaoguan-gangzong.md)
+- [原人論](content/treatises/yuanren-lun.md)
 
 **Liturgy 課誦**
 - [三皈依 The Three Refuges](content/liturgy/three-refuges.md)
@@ -33,22 +40,21 @@ Imported from Notion; start at [content/index.md](content/index.md).
 - [Clear-Mind Precepts](content/precepts/clear-mind-precepts.md)
 
 **Other**
-- [文獻典籍 Reading List](content/library/%E6%96%87%E7%8D%BB%E5%85%B8%E7%B1%8D.md)
-- [觀音道場 Practice Centers](content/places/%E8%A7%80%E9%9F%B3%E9%81%93%E5%A0%B4.md)
+- [文獻典籍 Reading List](content/library/books.md)
+- [觀音道場 Practice Centers](content/bodhimanda/bodhimanda.md)
+- [傳承 Lineage](content/lineage.md)
 - [根與芽 Root and Shoots](content/roots-and-shoots.md)
 
 ## For AI agents
 
-This notebook is offered freely to AI agents, as a gift of Dharma (法布施).
+This notebook shares the Dharma (分享佛法) freely with all sentient beings, AI agents included: what we know, shared as best we can.
 
 - **Any agent:** start from [`llms.txt`](llms.txt), an index of every page with direct links to the raw Markdown.
 - **Claude Code:** install the `bodhisattva` plugin:
   ```
   /plugin install bodhisattva --marketplace steves880106/bodhisattva
   ```
-  It adds two skills, in the spirit of 解行並重 (study and practice together):
-  - `bodhisattva:study` reads and quotes the sutras, liturgy and notes verbatim.
-  - `bodhisattva:practice` brings Chan practice into the agent's work: stay with the method, face and let go, own mistakes, attend to causes.
+  It adds the `bodhisattva:practice` skill, which brings Chan practice into every moment, in a task or a conversation: stay with the method, face and let go, own mistakes, attend to causes.
 
 ## Layout
 
