@@ -1,8 +1,9 @@
 ---
 title: "無相頌"
+title_en: "Formless Verse"
 ---
 
-# 無相頌
+# 無相頌 Formless Verse
 
 說通及心通，如日處虛空，唯傳見性法，出世破邪宗。  
 法即無頓漸，迷悟有遲疾，只此見性門，愚人不可悉。  

@@ -253,83 +253,83 @@ title_en: "The Diamond That Cuts Through Illusion"
 
 ## English
 
-This is what I heard one time when the Buddha was staying in the monastery in Anathapindika’s park in the Jeta Grove near Shravasti with a community of 1,250 bhikshus, fully ordained monks.
+This is what I heard one time when the Buddha was staying in the monastery in Anathapindika's park in the Jeta Grove near Shravasti with a community of 1,250 bhikshus, fully ordained monks.
 
 That day, when it was time to make the round for alms, the Buddha put on his sanghati robe and, holding his bowl, went into the city of Shravasti to seek alms food, going from house to house. When the almsround was completed, he returned to the monastery to eat the midday meal. Then he put away his sanghati robe and his bowl, washed his feet, arranged his cushion, and sat down.
 
-At that time, the Venerable Subhuti stood up, bared his right shoulder, put his knee on the ground, and, folding his palms respectfully, said to the Buddha, “World-Honored One, it is rare to find someone like you. You always support and show special confidence in the bodhisattvas.
+At that time, the Venerable Subhuti stood up, bared his right shoulder, put his knee on the ground, and, folding his palms respectfully, said to the Buddha, "World-Honored One, it is rare to find someone like you. You always support and show special confidence in the bodhisattvas.
 
-“World-Honored One, if sons and daughters of good families want to give rise to the highest, most fulfilled, awakened mind, what should they rely on and what should they do to master their thinking?”
+"World-Honored One, if sons and daughters of good families want to give rise to the highest, most fulfilled, awakened mind, what should they rely on and what should they do to master their thinking?"
 
-The Buddha replied, “Well said, Subhuti! What you have said is absolutely correct. The Tathagata always supports and shows special confidence in the bodhisattvas. Please listen with all of your attention and the Tathagata will respond to your question. If daughters and sons of good families want to give rise to the highest, most fulfilled, awakened mind, they should rely on the following and master their thinking in the following way.”
+The Buddha replied, "Well said, Subhuti! What you have said is absolutely correct. The Tathagata always supports and shows special confidence in the bodhisattvas. Please listen with all of your attention and the Tathagata will respond to your question. If daughters and sons of good families want to give rise to the highest, most fulfilled, awakened mind, they should rely on the following and master their thinking in the following way."
 
-The Venerable Subhuti said, “Lord, we are so happy to hear your teachings.”
+The Venerable Subhuti said, "Lord, we are so happy to hear your teachings."
 
-The Buddha said to Subhuti, “This is how the bodhisattva mahasattvas master their thinking. However many species of living beings there are—whether born from eggs, from the womb, from moisture, or spontaneously; whether they have form or do not have form; whether they have perceptions or do not have perceptions; or whether it cannot be said of them that they have perceptions or that they do not have perceptions, we must lead all these beings to the ultimate nirvana so that they can be liberated. And when this innumerable, immeasurable, infinite number of beings has become liberated, we do not, in truth, think that a single being has been liberated.
+The Buddha said to Subhuti, "This is how the bodhisattva mahasattvas master their thinking. However many species of living beings there are—whether born from eggs, from the womb, from moisture, or spontaneously; whether they have form or do not have form; whether they have perceptions or do not have perceptions; or whether it cannot be said of them that they have perceptions or that they do not have perceptions, we must lead all these beings to the ultimate nirvana so that they can be liberated. And when this innumerable, immeasurable, infinite number of beings has become liberated, we do not, in truth, think that a single being has been liberated.
 
-“Why is this so? If, Subhuti, a bodhisattva holds on to the idea that a self, a person, a living being, or a life span exists, that person is not an authentic bodhisattva.”
+"Why is this so? If, Subhuti, a bodhisattva holds on to the idea that a self, a person, a living being, or a life span exists, that person is not an authentic bodhisattva."
 
-“Moreover, Subhuti, when a bodhisattva practices generosity, he does not rely on any object—that is to say he does not rely on any form, sound, smell, taste, tactile object, or dharma—to practice generosity. That, Subhuti, is the spirit in which a bodhisattva should practice generosity, not relying on signs. Why? If a bodhisattva practices generosity without relying on signs, the happiness that results cannot be conceived of or measured. Subhuti, do you think that the space in the Eastern Quarter can be measured?”
+"Moreover, Subhuti, when a bodhisattva practices generosity, he does not rely on any object—that is to say he does not rely on any form, sound, smell, taste, tactile object, or dharma—to practice generosity. That, Subhuti, is the spirit in which a bodhisattva should practice generosity, not relying on signs. Why? If a bodhisattva practices generosity without relying on signs, the happiness that results cannot be conceived of or measured. Subhuti, do you think that the space in the Eastern Quarter can be measured?"
 
-“No, World-Honored One.”
+"No, World-Honored One."
 
-“Subhuti, can space in the Western, Southern, and Northern Quarters, above and below be measured?”
+"Subhuti, can space in the Western, Southern, and Northern Quarters, above and below be measured?"
 
-“No, World-Honored One.”
+"No, World-Honored One."
 
-“Subhuti, if a bodhisattva does not rely on any concept when practicing generosity, then the happiness that results from that virtuous act is as great as space. It cannot be measured. Subhuti, the bodhisattvas should let their minds dwell in the teachings I have just given.”
+"Subhuti, if a bodhisattva does not rely on any concept when practicing generosity, then the happiness that results from that virtuous act is as great as space. It cannot be measured. Subhuti, the bodhisattvas should let their minds dwell in the teachings I have just given."
 
-“What do you think, Subhuti? Is it possible to grasp the Tathagata by means of bodily signs?”
+"What do you think, Subhuti? Is it possible to grasp the Tathagata by means of bodily signs?"
 
-“No, World-Honored One. When the Tathagata speaks of bodily signs, there are no signs being talked about.”
+"No, World-Honored One. When the Tathagata speaks of bodily signs, there are no signs being talked about."
 
-The Buddha said to Subhuti, “In a place where there is something that can be distinguished by signs, in that place there is deception. If you can see the signless nature of signs, then you can see the Tathagata.”
+The Buddha said to Subhuti, "In a place where there is something that can be distinguished by signs, in that place there is deception. If you can see the signless nature of signs, then you can see the Tathagata."
 
-The Venerable Subhuti said to the Buddha, “In times to come, will there be people who, when they hear these teachings, have real faith and confidence in them?”
+The Venerable Subhuti said to the Buddha, "In times to come, will there be people who, when they hear these teachings, have real faith and confidence in them?"
 
-The Buddha replied, “Do not speak that way, Subhuti. Five hundred years after the Tathagata has passed away, there will still be people who enjoy the happiness that comes from observing the precepts. When such people hear these words, they will have faith and confidence that here is the truth. We should know that such people have sown seeds not only during the lifetime of one Buddha, or even two, three, four, or five Buddhas, but have, in truth, planted wholesome seeds during the lifetimes of tens of thousands of Buddhas. Anyone who, for only a second, gives rise to a pure and clear confidence upon hearing these words of the Tathagata, the Tathagata sees and knows that person, and he or she will attain immeasurable happiness because of this understanding. Why?
+The Buddha replied, "Do not speak that way, Subhuti. Five hundred years after the Tathagata has passed away, there will still be people who enjoy the happiness that comes from observing the precepts. When such people hear these words, they will have faith and confidence that here is the truth. We should know that such people have sown seeds not only during the lifetime of one Buddha, or even two, three, four, or five Buddhas, but have, in truth, planted wholesome seeds during the lifetimes of tens of thousands of Buddhas. Anyone who, for only a second, gives rise to a pure and clear confidence upon hearing these words of the Tathagata, the Tathagata sees and knows that person, and he or she will attain immeasurable happiness because of this understanding. Why?
 
-“Because that kind of person is not caught up in the idea of a self, a person, a living being, or a life span. They are not caught up in the idea of a dharma or the idea of a non-dharma. They are not caught up in the notion that this is a sign and that is not a sign. Why? If you are caught up in the idea of a dharma, you are also caught up in the ideas of a self, a person, a living being, and a life span. If you are caught up in the idea that there is no dharma, you are still caught up in the ideas of a self, a person, a living being, and a life span. That is why we should not get caught up in dharmas or in the idea that dharmas do not exist. This is the hidden meaning when the Tathagata says, ‘Bhikshus, you should know that all of the teachings I give to you are a raft.’ All teachings must be abandoned, not to mention non-teachings.”
+"Because that kind of person is not caught up in the idea of a self, a person, a living being, or a life span. They are not caught up in the idea of a dharma or the idea of a non-dharma. They are not caught up in the notion that this is a sign and that is not a sign. Why? If you are caught up in the idea of a dharma, you are also caught up in the ideas of a self, a person, a living being, and a life span. If you are caught up in the idea that there is no dharma, you are still caught up in the ideas of a self, a person, a living being, and a life span. That is why we should not get caught up in dharmas or in the idea that dharmas do not exist. This is the hidden meaning when the Tathagata says, 'Bhikshus, you should know that all of the teachings I give to you are a raft.' All teachings must be abandoned, not to mention non-teachings."
 
-“What do you think, Subhuti, has the Tathagata arrived at the highest, most fulfilled, awakened mind? Does the Tathagata give any teaching?”
+"What do you think, Subhuti, has the Tathagata arrived at the highest, most fulfilled, awakened mind? Does the Tathagata give any teaching?"
 
-The Venerable Subhuti replied, “As far as I have understood the Lord Buddha’s teachings, there is no independently existing object of mind called the highest, most fulfilled, awakened mind, nor is there any independently existing teaching that the Tathagata gives. Why? The teachings that the Tathagata has realized and spoken of cannot be conceived of as separate, independent existences and therefore cannot be described. The Tathagata’s teaching is not self-existent nor is it nonself-existent. Why? Because the noble teachers are only distinguished from others in terms of the unconditioned.”
+The Venerable Subhuti replied, "As far as I have understood the Lord Buddha's teachings, there is no independently existing object of mind called the highest, most fulfilled, awakened mind, nor is there any independently existing teaching that the Tathagata gives. Why? The teachings that the Tathagata has realized and spoken of cannot be conceived of as separate, independent existences and therefore cannot be described. The Tathagata's teaching is not self-existent nor is it nonself-existent. Why? Because the noble teachers are only distinguished from others in terms of the unconditioned."
 
-“What do you think, Subhuti? If someone were to fill the 3,000 chiliocosms with the seven precious treasures as an act of generosity, would that person bring much happiness by this virtuous act?”
+"What do you think, Subhuti? If someone were to fill the 3,000 chiliocosms with the seven precious treasures as an act of generosity, would that person bring much happiness by this virtuous act?"
 
-The Venerable Subhuti replied, “Yes, World-Honored One. It is because the very natures of virtue and happiness are not virtue and happiness that the Tathagata is able to speak about virtue and happiness.”
+The Venerable Subhuti replied, "Yes, World-Honored One. It is because the very natures of virtue and happiness are not virtue and happiness that the Tathagata is able to speak about virtue and happiness."
 
-The Buddha said, “On the other hand, if there is someone who accepts these teachings and puts them into practice, even if only a gatha of four lines, and explains them to someone else, the happiness brought about by this virtuous act far exceeds the happiness brought about by giving the seven precious treasures. Why? Because, Subhuti, all Buddhas and the dharma of the highest, most fulfilled, awakened mind of all Buddhas arise from these teachings. Subhuti, what is called Buddhadharma is everything that is not Buddhadharma.”
+The Buddha said, "On the other hand, if there is someone who accepts these teachings and puts them into practice, even if only a gatha of four lines, and explains them to someone else, the happiness brought about by this virtuous act far exceeds the happiness brought about by giving the seven precious treasures. Why? Because, Subhuti, all Buddhas and the dharma of the highest, most fulfilled, awakened mind of all Buddhas arise from these teachings. Subhuti, what is called Buddhadharma is everything that is not Buddhadharma."
 
-“What do you think, Subhuti? Does a Stream-Enterer think, ‘I have attained the fruit of Stream-Entry.’?”
+"What do you think, Subhuti? Does a Stream-Enterer think, 'I have attained the fruit of Stream-Entry.'?"
 
-Subhuti replied, “No, World-Honored One. Why? Stream-Enterer means to enter the stream, but in fact there is no stream to enter. One does not enter a stream that is form, nor a stream that is sound, smell, taste, touch, or object of mind. That is what we mean when we say entering a stream.”
+Subhuti replied, "No, World-Honored One. Why? Stream-Enterer means to enter the stream, but in fact there is no stream to enter. One does not enter a stream that is form, nor a stream that is sound, smell, taste, touch, or object of mind. That is what we mean when we say entering a stream."
 
-“What do you think, Subhuti? Does a Once-Returner think, ‘I have attained the fruit of Once-Returning.’?”
+"What do you think, Subhuti? Does a Once-Returner think, 'I have attained the fruit of Once-Returning.'?"
 
-Subhuti replied, “No, World-Honored One. Why? Once-Returner means to go and return once more, but in truth there is no going just as there is no returning. That is what we mean when we say Once-Returner.”
+Subhuti replied, "No, World-Honored One. Why? Once-Returner means to go and return once more, but in truth there is no going just as there is no returning. That is what we mean when we say Once-Returner."
 
-“What do you think, Subhuti? Does a Non-Returner think like this, ‘I have attained the fruit of No-Return.’?”
+"What do you think, Subhuti? Does a Non-Returner think like this, 'I have attained the fruit of No-Return.'?"
 
-Subhuti replied, “No, World-Honored One. Why? No-Return means not to return to this world, but in fact there cannot be any Non-Returning. That is what we mean when we say Non-Returner.”
+Subhuti replied, "No, World-Honored One. Why? No-Return means not to return to this world, but in fact there cannot be any Non-Returning. That is what we mean when we say Non-Returner."
 
-“What do you think, Subhuti? Does an Arhat think like this, ‘I have attained the fruit of Arhatship.’?”
+"What do you think, Subhuti? Does an Arhat think like this, 'I have attained the fruit of Arhatship.'?"
 
-Subhuti replied, “No, World-Honored One. Why? There is no separately existing thing that can be called Arhat. If an Arhat gives rise to the thought that he has attained the fruit of Arhatship, then he is still caught up in the idea of a self, a person, a living being, and a life span. World-Honored One, you have often said that I have attained the concentration of peaceful abiding and that in the community, I am the Arhat who has most transformed need and desire. World-Honored One, if I were to think that I had attained the fruit of Arhatship, you certainly would not have said that I love to dwell in the concentration of peaceful abiding.”
+Subhuti replied, "No, World-Honored One. Why? There is no separately existing thing that can be called Arhat. If an Arhat gives rise to the thought that he has attained the fruit of Arhatship, then he is still caught up in the idea of a self, a person, a living being, and a life span. World-Honored One, you have often said that I have attained the concentration of peaceful abiding and that in the community, I am the Arhat who has most transformed need and desire. World-Honored One, if I were to think that I had attained the fruit of Arhatship, you certainly would not have said that I love to dwell in the concentration of peaceful abiding."
 
-The Buddha asked Subhuti, “In ancient times when the Tathagata practiced under Buddha Dipankara, did he attain anything?”
+The Buddha asked Subhuti, "In ancient times when the Tathagata practiced under Buddha Dipankara, did he attain anything?"
 
-Subhuti answered, “No, World-Honored One. In ancient times when the Tathagata was practicing under Buddha Dipankara, he did not attain anything.”
+Subhuti answered, "No, World-Honored One. In ancient times when the Tathagata was practicing under Buddha Dipankara, he did not attain anything."
 
-“What do you think, Subhuti? Does a bodhisattva create a serene and beautiful Buddha field?”
+"What do you think, Subhuti? Does a bodhisattva create a serene and beautiful Buddha field?"
 
-“No, World-Honored One. Why? To create a serene and beautiful Buddha field is not in fact creating a serene and beautiful Buddha field. That is why it is called creating a serene and beautiful Buddha field.”
+"No, World-Honored One. Why? To create a serene and beautiful Buddha field is not in fact creating a serene and beautiful Buddha field. That is why it is called creating a serene and beautiful Buddha field."
 
-The Buddha said, “So, Subhuti, all the bodhisattva mahasattvas should give rise to a pure and clear intention in this spirit. When they give rise to this intention, they should not rely on forms, sounds, smells, tastes, tactile objects, or objects of mind. They should give rise to an intention with their minds not dwelling anywhere.”
+The Buddha said, "So, Subhuti, all the bodhisattva mahasattvas should give rise to a pure and clear intention in this spirit. When they give rise to this intention, they should not rely on forms, sounds, smells, tastes, tactile objects, or objects of mind. They should give rise to an intention with their minds not dwelling anywhere."
 
-“Subhuti, if there were someone with a body as big as Mount Sumeru, would you say that his was a large body?”
+"Subhuti, if there were someone with a body as big as Mount Sumeru, would you say that his was a large body?"
 
-Subhuti answered, “Yes, World-Honored One, very large. Why? What the Tathagata says is not a large body, that is known as a large body.”
+Subhuti answered, "Yes, World-Honored One, very large. Why? What the Tathagata says is not a large body, that is known as a large body."
 
 "Subhuti, if there were as many Ganges Rivers as the number of grains of sand in the Ganges, would you say that the number of grains of sand in all those Ganges Rivers is very many?"
 
@@ -349,13 +349,13 @@ The Buddha replied, "This sutra should be called The Diamond that Cuts through I
 
 The Buddha asked, "What do you think, Subhuti? Is there any dharma that the Tathagata teaches?"
 
-Subhuti replied, “The Tathagata has nothing to teach, World-Honored One.”
+Subhuti replied, "The Tathagata has nothing to teach, World-Honored One."
 
-“What do you think, Subhuti? Are there many particles of dust in the 3,000 chiliocosms?”
+"What do you think, Subhuti? Are there many particles of dust in the 3,000 chiliocosms?"
 
-“Very many, World-Honored One.”
+"Very many, World-Honored One."
 
-"Subhuti, the Tathagata says that these particles of dust are not particles of dust. That is why they are truly particles of dust. And what the Tathagata calls chiliocosms are not in fact chiliocosms. That is why they are called chiliocosms.”
+"Subhuti, the Tathagata says that these particles of dust are not particles of dust. That is why they are truly particles of dust. And what the Tathagata calls chiliocosms are not in fact chiliocosms. That is why they are called chiliocosms."
 
 "What do you think, Subhuti? Can the Tathagata be recognized by the possession of the thirty-two marks?"
 
@@ -377,7 +377,7 @@ The Buddha said to Subhuti, "That is quite right. If someone hears this sutra an
 
 "Subhuti, a bodhisattva who still depends on notions to practice generosity is like someone walking in the dark. He will not see anything. But when a bodhisattva does not depend on notions to practice generosity, he is like someone with good eyesight walking under the bright light of the sun. He can see all shapes and colors.
 
-"Subhuti, if in the future there is any daughter or son of good family who has the capacity to accept, read, and put into practice this sutra, the Tathagata will see that person with his eyes of understanding. The Tathagata will know that person, and that person will realize the measureless, limitless fruit of her or his virtuous act.”
+"Subhuti, if in the future there is any daughter or son of good family who has the capacity to accept, read, and put into practice this sutra, the Tathagata will see that person with his eyes of understanding. The Tathagata will know that person, and that person will realize the measureless, limitless fruit of her or his virtuous act."
 
 "Subhuti, if on the one hand, a daughter or son of a good family gives up her or his life in the morning as many times as there are grains of sand in the Ganges as an act of generosity, and gives as many again in the afternoon and as many again in the evening, and continues doing so for countless ages; and if, on the other hand, another person listens to this sutra with complete confidence and without contention, that person's happiness will be far greater. But the happiness of one who writes this sutra down, receives, recites, and explains it to others cannot be compared.
 
@@ -397,13 +397,13 @@ The Buddha replied, "Subhuti, a good son or daughter who wants to give rise to t
 
 The Buddha said, "Right you are, Subhuti. In fact, there does not exist the so-called highest, most fulfilled, awakened mind that the Tathagata attains. Because if there had been any such thing, Buddha Dipankara would not have predicted of me, 'In the future, you will come to be a Buddha called Shakyamuni.' This prediction was made because there is, in fact, nothing that can be attained that is called the highest, most fulfilled, awakened mind. Why? Tathagata means the suchness of all things (dharmas). Someone would be mistaken to say that the Tathagata has attained the highest, most fulfilled, awakened mind since there is not any highest, most fulfilled, awakened mind to be attained. Subhuti, the highest, most fulfilled, awakened mind that the Tathagata has attained is neither graspable nor elusive. This is why the Tathagata has said, 'All dharmas are Buddhadharma.' What are called all dharmas are, in fact, not all dharmas. That is why they are called all dharmas.
 
-“Subhuti, a comparison can be made with the idea of a great human body.
+"Subhuti, a comparison can be made with the idea of a great human body.
 
 Subhuti said, "What the Tathagata calls a great human body is, in fact, not a great human body."
 
 "Subhuti, it is the same concerning bodhisattvas. If a bodhisattva thinks that she has to liberate all living beings, then she is not yet a bodhisattva. Why? Subhuti, there is no independently existing object of mind called bodhisattva. Therefore, the Buddha has said that all dharmas are without a self, a person, a living being, or a life span. Subhuti, if a bodhisattva thinks, 'I have to create a serene and beautiful Buddha field,' that person is not yet a bodhisattva. Why? What the Tathagata calls a serene and beautiful Buddha field is not in fact a serene and beautiful Buddha field. And that is why it is called a serene and beautiful Buddha field. Subhuti, any bodhisattva who thoroughly understands the principle of nonself and non-dharma is called by the Tathagata an authentic bodhisattva."
 
-“Subhuti, what do you think? Does the Tathagata have the human eye?”
+"Subhuti, what do you think? Does the Tathagata have the human eye?"
 
 Subhuti replied, "Yes, World-Honored One, the Tathagata does have the human eye."
 
@@ -429,7 +429,7 @@ Subhuti said, "World-Honored One, the Tathagata also calls it sand."
 
 "Subhuti, if there were as many Ganges Rivers as the number of grains of sand of the Ganges, and there was a Buddha land for each grain of sand in all those Ganges Rivers, would those Buddha lands be many?"
 
-“Yes, World-Honored One, very many.”
+"Yes, World-Honored One, very many."
 
 The Buddha said, "Subhuti, however many living beings there are in all these Buddha lands, though they each have a different mentality, the Tathagata understands them all. Why is that? Subhuti, what the Tathagata calls different mentalities are not in fact different mentalities. That is why they are called different mentalities.
 
@@ -457,7 +457,7 @@ The Buddha said, "Subhuti, those living beings are neither living beings nor non
 
 Subhuti asked the Buddha, "World-Honored One, is the highest, most fulfilled, awakened mind that the Buddha attained the unattainable?"
 
-The Buddha said, "That is right, Subhuti. Regarding the highest, most fulfilled, awakened mind."
+The Buddha said, "That is right, Subhuti. Regarding the highest, most fulfilled, awakened mind, I have not attained anything. That is why it is called the highest, most fulfilled, awakened mind."
 
 "Furthermore, Subhuti, that mind is everywhere equally. Because it is neither high nor low, it is called the highest, most fulfilled, awakened mind. The fruit of the highest, most fulfilled, awakened mind is realized through the practice of all wholesome actions in the spirit of non-self, non-person, non-living being, and non-life span. Subhuti, what are called wholesome actions are in fact not wholesome actions. That is why they are called wholesome actions."
 
@@ -490,7 +490,7 @@ Subhuti asked the Buddha, "What do you mean, World-Honored One, when you say tha
 
 "Subhuti, if someone says that the World-Honored One comes, goes, sits, and lies down, that person has not understood what I have said. Why? The meaning of Tathagata is 'does not come from anywhere and does not go anywhere.' That is why he is called a Tathagata."
 
-"Subhuti, if a daughter or son of a good family were to grind the 3,000 chiliocosms to particles of dust, do you think there would be many particles?
+"Subhuti, if a daughter or son of a good family were to grind the 3,000 chiliocosms to particles of dust, do you think there would be many particles?"
 
 Subhuti replied, "World-Honored One, there would be many indeed. Why? If particles of dust had a real self-existence, the Buddha would not have called them particles of dust. What the Buddha calls particles of dust are not, in essence, particles of dust. That is why they can be called particles of dust. World-Honored One, what the Tathagata calls the 3,000 chiliocosms are not chiliocosms. That is why they are called chiliocosms. Why? If chiliocosms are real, they are a compound of particles under the conditions of being assembled into an object. That which the Tathagata calls a compound is not essentially a compound. That is why it is called a compound."
 

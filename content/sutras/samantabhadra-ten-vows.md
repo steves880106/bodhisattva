@@ -5,7 +5,7 @@ title_en: "The Ten Great Aspirations of Samantabhadra Bodhisattva"
 
 # 普賢十大行願品 The Ten Great Aspirations of Samantabhadra Bodhisattva
 
-## Samantabhadra's Ten Great Vow
+## Samantabhadra's Ten Great Vows
 
 ### 中文
 

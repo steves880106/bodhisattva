@@ -6,7 +6,7 @@ All pages are plain Markdown. Bilingual pages give the Chinese first (often in b
 
 ## Practice
 
-- [修行指引 Practice Guide](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/SKILL.md): the practice skill, twelve Chan attitudes for every moment and every place, ending with the 修行指引 list; the core notes follow in four files, 信心、行願、知見、方法
+- [修行指引 Practice Guide](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/SKILL.md): the practice skill, twelve Chan attitudes for every moment and every place, ending with the 修行指引 list; the core notes follow in five files, 信心、行願、知見、方法、定課
 - [信心 Faith](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/faith.md): faith in the Three Jewels, in causes and conditions, in the method
 - [行願 Vows](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/vow.md): the refuges, the four great vows, Dharma Drum's shared vision, the Samantabhadra vows
 - [知見 Perspective](https://raw.githubusercontent.com/steves880106/bodhisattva/main/skills/practice/bodhisattva-path/perspective.md): a glossary of key teachings (dependent origination, emptiness, no-self, the 37 aids to enlightenment, the twelve links), one heading per term, then 提醒, reminders from teachers as block quotes
@@ -37,7 +37,7 @@ All pages are plain Markdown. Bilingual pages give the Chinese first (often in b
 
 - [大乘起信論 Awakening Faith of Mahayana](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/treatises/awakening-of-faith.md): placeholder, no notes yet
 - [教觀綱宗](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/treatises/jiaoguan-gangzong.md): notes: 天台心鑰, and 信心、行願、知見、方法
-- [原人論](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/treatises/yuanren-lun.md): notes: 華嚴心銓
+- [原人論](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/treatises/yuanren-lun.md): notes: 華嚴心詮
 
 ## Liturgy
 
@@ -55,4 +55,4 @@ All pages are plain Markdown. Bilingual pages give the Chinese first (often in b
 - [文獻典籍 Reading List](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/library/books.md): books by Sheng Yen, Thich Nhat Hanh and others
 - [觀音道場 Practice Centers](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/bodhimanda/bodhimanda.md): Dharma Drum centers, Kannon Do, Deer Park Monastery
 - [傳承 Lineage](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/lineage.md): the Buddhas and Bodhisattvas of the ten directions and three times, and the lineage of teachers
-- [根與芽 Root and Shoots](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/roots-and-shoots.md): Jane Goodall's Roots & Shoots and her farewell message
+- [根與芽 Roots & Shoots](https://raw.githubusercontent.com/steves880106/bodhisattva/main/content/roots-and-shoots.md): Jane Goodall's Roots & Shoots and her farewell message

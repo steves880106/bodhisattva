@@ -1,8 +1,9 @@
 ---
 title: "顯宗記"
+title_en: "Record of Manifesting the Teaching"
 ---
 
-# 顯宗記
+# 顯宗記 Record of Manifesting the Teaching
 
 ## 無念與真如
 

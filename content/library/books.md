@@ -1,15 +1,13 @@
 ---
 title: "文獻典籍"
+title_en: "Reading List"
 ---
 
-# 文獻典籍
+# 文獻典籍 Reading List
 
 ## 聖嚴法師
 
-| Collections | Author |
-| --- | --- |
-| **聖嚴法師 全集** https://ddc.shengyen.org/ (Claude Code plugin: https://github.com/steves880106/ddc) | **聖嚴法師** |
-
+- [**聖嚴法師全集**](https://ddc.shengyen.org/) (Claude Code plugin: [steves880106/ddc](https://github.com/steves880106/ddc))
 - **聖嚴法師教禪坐**
 - **There Is No Suffering: A Commentary on the Heart Sutra**
 - **Faith in Mind - A Commentary on Seng Ts'an's Classic**
@@ -17,7 +15,7 @@ title: "文獻典籍"
 - **Complete Enlightenment 完全證悟**
 - **Hoofprint of the Ox 牛的印跡**
 - **天台心鑰**
-- **華嚴心銓**
+- **華嚴心詮**
 - **神會禪師的悟境**
 - **禪的體驗禪的開示**
 - **聖嚴法師教默照禪**
@@ -47,4 +45,4 @@ title: "文獻典籍"
 | **The Hero of A Thousand Faces 千面英雄** | **Joseph Campbell** |
 | **The Structure of Scientific Revolution 科學革命的結構** | **Thomas Kuhn** |
 | **傷心咖啡店之歌** | **朱少麟** |
-| 止觀禪 | 釋果暉 |
+| **止觀禪** | **釋果暉** |

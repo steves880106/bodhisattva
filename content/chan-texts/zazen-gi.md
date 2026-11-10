@@ -1,8 +1,9 @@
 ---
 title: "坐禪儀"
+title_en: "Principles of Seated Meditation"
 ---
 
-# 坐禪儀
+# 坐禪儀 Principles of Seated Meditation
 
 夫學般若菩薩，先當起大悲心，發弘誓願，精修三昧，誓度眾生，不為一身，獨求解脫。爾乃放捨諸相，休息萬事，身心一如，動靜無間。量其飲食，不多不少。調其睡眠，不節不恣。欲坐禪時，於閑靜處，厚敷坐物，寬繫衣帶。
 
