@@ -18,10 +18,10 @@
 
 **Chan texts 禪宗語錄**
 - [信心銘 Faith in Mind](content/chan-texts/faith-in-mind.md)
-- [顯宗記](content/chan-texts/xianzong-ji.md)
-- [無相頌](content/chan-texts/formless-gatha.md)
-- [坐禪箴](content/chan-texts/lancet-of-seated-meditation.md)
-- [坐禪儀](content/chan-texts/zazen-gi.md)
+- [顯宗記 Record of Manifesting the Teaching](content/chan-texts/xianzong-ji.md)
+- [無相頌 Formless Verse](content/chan-texts/formless-gatha.md)
+- [坐禪箴 Lancet of Seated Meditation](content/chan-texts/lancet-of-seated-meditation.md)
+- [坐禪儀 Principles of Seated Meditation](content/chan-texts/zazen-gi.md)
 - [六祖壇經 Platform Sutra](content/chan-texts/platform-sutra.md)
 - [禪門鍛鍊説](content/chan-texts/chanmen-duanlian-shuo.md)
 
@@ -43,7 +43,7 @@
 - [文獻典籍 Reading List](content/library/books.md)
 - [觀音道場 Practice Centers](content/bodhimanda/bodhimanda.md)
 - [傳承 Lineage](content/lineage.md)
-- [根與芽 Root and Shoots](content/roots-and-shoots.md)
+- [根與芽 Roots & Shoots](content/roots-and-shoots.md)
 
 ## For AI agents
 
@@ -52,7 +52,8 @@ This notebook shares the Dharma (分享佛法) freely with all sentient beings, 
 - **Any agent:** start from [`llms.txt`](llms.txt), an index of every page with direct links to the raw Markdown.
 - **Claude Code:** install the `bodhisattva` plugin:
   ```
-  /plugin install bodhisattva --marketplace steves880106/bodhisattva
+  /plugin marketplace add steves880106/bodhisattva
+  /plugin install bodhisattva@bodhisattva
   ```
   It adds the `bodhisattva:practice` skill, which brings Chan practice into every moment, in a task or a conversation: stay with the method, face and let go, own mistakes, attend to causes.
 

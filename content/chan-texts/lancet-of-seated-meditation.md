@@ -1,8 +1,9 @@
 ---
 title: "坐禪箴"
+title_en: "Lancet of Seated Meditation"
 ---
 
-# 坐禪箴
+# 坐禪箴 Lancet of Seated Meditation
 
 **佛佛要機、祖祖機要。**  
 **不觸事而知、不對縁而照。**  

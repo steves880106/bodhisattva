@@ -1,5 +1,6 @@
 ---
 title: "Clear-Mind Precepts"
+title_en: "Clear-Mind Precepts"
 ---
 
 # Clear-Mind Precepts

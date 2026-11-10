@@ -8,16 +8,12 @@ title: "行願"
 
 (行願)
 
-## 行願
-
-### [三皈依 The Three Refuges](../../../content/liturgy/three-refuges.md)
+## [三皈依 The Three Refuges](../../../content/liturgy/three-refuges.md)
 
 佛、法、僧  
 覺、正、淨
 
-**發阿耨多羅三藐三菩提(anuttara-samyak-saṃbodhi) 心。(無上正等正覺心)**
-
-### [四弘誓願 The Four Great Vows](../../../content/liturgy/four-great-vows.md)
+## [四弘誓願 The Four Great Vows](../../../content/liturgy/four-great-vows.md)
 
 To vow to deliver others before oneself is the initial generation of the Bodhi heart (初發心) of a Bodhisattva.
 
@@ -30,7 +26,7 @@ for peace in the world,
 for the joy and contentment of all people,  
 for the freedom and ease of body and mind.  
 May sentient beings depart from suffering.  
-May the vows of the donors be fullfilled.
+May the vows of the donors be fulfilled.
 
 > <u>**佛法是這麼的好，知道的人是這樣的少，誤解的人又是這樣的多。我要盡量的學習修行，要把我知道的佛法分享給他人。**</u>
 
@@ -69,4 +65,4 @@ Mu so fuku den e
 Hi bu nyo rai kyo  
 Ko do sho shu jo
 
-### [普賢十大行願品 *The Ten Great Aspirations of Samantabhadra Bodhisattva*](../../../content/sutras/samantabhadra-ten-vows.md)
+## [普賢十大行願品 *The Ten Great Aspirations of Samantabhadra Bodhisattva*](../../../content/sutras/samantabhadra-ten-vows.md)

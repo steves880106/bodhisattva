@@ -1,8 +1,9 @@
 ---
 title: "觀音道場"
+title_en: "Practice Centers"
 ---
 
-# 觀音道場
+# 觀音道場 Practice Centers
 
 ## Dharma Drum Mountain San Francisco Bay Area Center 法鼓山舊金山道場
 
